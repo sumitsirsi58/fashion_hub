@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721256072070",
+    "project_id": "fashion-hub-4672e",
+    "storage_bucket": "fashion-hub-4672e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721256072070:android:0744a5d45927c3de90e207",
+        "android_client_info": {
+          "package_name": "com.example.fashion_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721256072070-oebvdjrbfuulmgifou2e51t1jfeo8qpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX6kL3MJljIbTnldhL6fkkk6kK1P3_3cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721256072070-oebvdjrbfuulmgifou2e51t1jfeo8qpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
